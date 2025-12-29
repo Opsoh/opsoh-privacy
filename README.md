@@ -16,6 +16,9 @@ Our apps do not:
 Any files, documents, or images you use in OpsOh apps remain on your device
 and are never uploaded to external servers.
 
+This Privacy Policy applies to all apps published by OpsOh.
+This policy may be updated from time to time. Continued use of our apps constitutes acceptance of the updated policy.
+
 If you contact us for support, we may receive your email address and message,
 which will only be used to respond to your inquiry.
 
