@@ -1,4 +1,3 @@
-# OpsOh-Privacy
 Privacy Policy
 
 OpsOh builds simple, privacy-focused iOS utility apps.
