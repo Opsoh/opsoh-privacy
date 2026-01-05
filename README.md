@@ -1,4 +1,4 @@
-# opsoh-privacy
+# OpsOh-Privacy
 Privacy Policy
 
 OpsOh builds simple, privacy-focused iOS utility apps.
@@ -16,6 +16,8 @@ Our apps do not:
 Any files, documents, or images you use in OpsOh apps remain on your device
 and are never uploaded to external servers.
 
+Some apps may request access to device features such as Photos or Files solely to perform user-requested actions.
+
 This Privacy Policy applies to all apps published by OpsOh.
 This policy may be updated from time to time. Continued use of our apps constitutes acceptance of the updated policy.
 
@@ -25,4 +27,4 @@ which will only be used to respond to your inquiry.
 If you have any questions about this Privacy Policy, you can contact us at:
 support@opsoh.com
 
-Last updated: December 2025
+Last updated: January 2026
